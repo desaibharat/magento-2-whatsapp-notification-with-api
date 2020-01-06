@@ -1,6 +1,12 @@
 {
   "name": "magecomp/magento-2-whatsapp-order-notification",
   "description": "Magecomp WhatsApp Basic Extension",
+  "repositories": [
+        {
+            "url": "https://github.com/desaibharat/magento-2-whatsapp-notification-with-api",
+            "type": "git"
+        }
+    ],
   "require": {
     "php": "~5.5.0|~5.6.0|~7.0.0|~7.1.0"
   },
